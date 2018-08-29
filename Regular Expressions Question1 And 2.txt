@@ -1,0 +1,7 @@
+Regular Expressions:
+
+1. Reg Ex for a valid Email Address:-
+		[a-zA-Z0-9_.]*[@](gmail.com | yahoo.com | outlook.com)
+
+2. Reg Ex for Valid Indian Numbers:-
+		^[+91-][6-9]{1}\d{9}
